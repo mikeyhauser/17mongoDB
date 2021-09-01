@@ -1,4 +1,4 @@
-# HW!& NoSQL: Workout Tracker
+# NoSQL: Workout Tracker
 
 In this assignemtn I have created a workout tracker. It was necessary to create Mongo a database with a Mongoose schema and handle routes with Express.
 
